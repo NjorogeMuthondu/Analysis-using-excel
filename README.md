@@ -62,7 +62,23 @@ Structured data to support scalable Pivot Tables (Profit by month.csv, Units sol
 
 <img width="174" height="29" alt="image" src="https://github.com/user-attachments/assets/0f5bd3b6-8a71-43b5-a4a8-8d6020473015" />
 
+• Data.csv: The historical raw sales data used for training the model.
 
+• New Data.csv: Incremental data sets used to test the dashboard's dynamic updating capabilities.
+
+• Profit by country and cookie.csv: Aggregated data focusing on geospatial profitability.
+
+• Excel Interactive Dashboard.xlsx: The final interactive tool.
+
+<img width="297" height="29" alt="image" src="https://github.com/user-attachments/assets/1a1abf06-f616-4ab1-a1de-05fcd9222631" />
+
+1. Download the Excel Interactive Dashboard.xlsx file.
+
+2. Open the file in Microsoft Excel (2016 or later recommended).
+
+3. Use the Slicers on the left panel to filter by Country (e.g., "United States") or Product (e.g., "Fortune Cookie").
+
+4. Watch the charts automatically update to reflect the specific segment selected.
 
 
 
